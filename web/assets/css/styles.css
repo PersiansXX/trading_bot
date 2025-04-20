@@ -1,0 +1,71 @@
+/* Genel stil ayarları */
+body {
+    background-color: #f8f9fa;
+}
+
+/* Sidebar */
+.sidebar {
+    min-height: calc(100vh - 56px);
+    background-color: #343a40;
+}
+
+/* Kartlar */
+.card {
+    border-radius: 0.5rem;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+    margin-bottom: 20px;
+}
+
+.card-header {
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+}
+
+/* Tablo düzenlemeleri */
+.table-hover tbody tr:hover {
+    background-color: rgba(0, 123, 255, 0.075);
+}
+
+/* Grafik konteyner */
+.chart-container {
+    position: relative;
+    height: 400px;
+    width: 100%;
+}
+
+/* İndikatör renkleri */
+.bg-rsi-overbought {
+    background-color: #dc3545 !important;
+}
+
+.bg-rsi-oversold {
+    background-color: #28a745 !important;
+}
+
+.bg-rsi-neutral {
+    background-color: #17a2b8 !important;
+}
+
+/* Log konteyner */
+.log-container {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #212529;
+    color: #f8f9fa;
+    padding: 15px;
+    border-radius: 5px;
+    height: 300px;
+    overflow-y: auto;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 4px;

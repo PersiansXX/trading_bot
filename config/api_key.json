@@ -1,0 +1,11 @@
+{
+    "binance": {
+        "api_key": "yiOmIJlEMBv1ZFrgFZ0Ajy5kFIfgwrrK3MWitdaOkvocb19u71Z7yrndZTH1Lptg",
+        "secret": "Ff0kllaw98JUGJRKxgGFOWtN2QZuZenTJSEcpoPePSdUF1AJpjKPTvTnaGifpBYc"
+    },
+    "kucoin": {
+        "api_key": "YOUR_KUCOIN_API_KEY",
+        "secret": "YOUR_KUCOIN_SECRET_KEY",
+        "password": "YOUR_KUCOIN_API_PASSPHRASE"
+    }
+}

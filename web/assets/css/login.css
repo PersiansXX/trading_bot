@@ -1,0 +1,45 @@
+body {
+    background: linear-gradient(135deg, #172a74, #21a9af);
+    min-height: 100vh;
+}
+
+.login-form {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.2);
+}
+
+.login-form h2 {
+    font-weight: 500;
+    margin-bottom: 30px;
+    color: #333;
+}
+
+.login-form .form-group {
+    margin-bottom: 20px;
+}
+
+.login-form label {
+    font-weight: 500;
+    color: #555;
+}
+
+.login-form .form-control {
+    height: 45px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px 15px;
+}
+
+.login-form .btn {
+    font-size: 16px;
+    font-weight: 500;
+    padding: 10px 0;
+    border-radius: 4px;
+    background: linear-gradient(135deg, #0143a3, #0273d4);
+    border: none;
+}
+
+.login-form .btn:hover {
+    background: linear-gradient(135deg, #0273d4, #0143a3);
+}

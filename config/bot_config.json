@@ -1,0 +1,50 @@
+{
+    "exchange": "binance",
+    "base_currency": "USDT",
+    "min_volume": 1000000,
+    "max_coins": 20,
+    "min_trade_amount": 10,
+    "max_trade_amount": 100,
+    "position_size": 0.05,
+    "api_delay": 0.5,
+    "scan_interval": 60,
+    "database": {
+        "host": "localhost",
+        "user": "root",
+        "password": "Efsane44.",
+        "dbname": "trading_bot_db"
+    },
+    "indicators": {
+        "bollinger_bands": {
+            "enabled": true,
+            "window": 20,
+            "num_std": 2
+        },
+        "rsi": {
+            "enabled": true,
+            "window": 14
+        },
+        "macd": {
+            "enabled": true,
+            "fast_period": 12,
+            "slow_period": 26,
+            "signal_period": 9
+        },
+        "moving_average": {
+            "enabled": true,
+            "short_window": 50,
+            "long_window": 200
+        }
+    },
+    "strategies": {
+        "short_term": {
+            "enabled": true
+        },
+        "trend_following": {
+            "enabled": true
+        },
+        "breakout": {
+            "enabled": true
+        }
+    }
+}
