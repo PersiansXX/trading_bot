@@ -1,0 +1,556 @@
+2025-04-20 19:44:59,381 - trading_bot - INFO - Konfigürasyon başarıyla yüklendi
+2025-04-20 19:44:59,408 - trading_bot - INFO - binance borsasına bağlantı kuruldu
+2025-04-20 19:44:59,425 - trading_bot - INFO - Veritabanı bağlantısı kuruldu
+2025-04-20 19:44:59,538 - trading_bot - INFO - Telegram bot bağlantısı kuruldu
+2025-04-20 19:44:59,538 - trading_bot - INFO - Bot başlatılıyor...
+2025-04-20 19:45:18,162 - trading_bot - INFO - 20 aktif coin bulundu
+2025-04-20 19:45:18,487 - trading_bot - ERROR - BTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:45:19,280 - trading_bot - ERROR - ETH/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:45:20,064 - trading_bot - ERROR - BNB/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:45:20,840 - trading_bot - ERROR - NEO/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:45:21,625 - trading_bot - ERROR - LTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:45:22,403 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('QTUM/USDT',' at line 1
+2025-04-20 19:45:22,686 - trading_bot - WARNING - Yetersiz bakiye: 0.0
+2025-04-20 19:45:23,468 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('ADA/USDT', ' at line 1
+2025-04-20 19:45:23,758 - trading_bot - WARNING - Yetersiz bakiye: 0.0
+2025-04-20 19:45:24,538 - trading_bot - ERROR - XRP/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:45:25,317 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('EOS/USDT', ' at line 1
+2025-04-20 19:45:25,615 - trading_bot - WARNING - Satılacak EOS yok
+2025-04-20 19:45:26,396 - trading_bot - ERROR - IOTA/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:45:27,176 - trading_bot - ERROR - XLM/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:45:27,959 - trading_bot - ERROR - TRX/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:45:28,735 - trading_bot - ERROR - ETC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:45:29,520 - trading_bot - ERROR - VET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:45:30,298 - trading_bot - ERROR - USDC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:45:31,080 - trading_bot - ERROR - LINK/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:45:31,863 - trading_bot - ERROR - ZIL/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:45:32,647 - trading_bot - ERROR - ZRX/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:45:33,427 - trading_bot - ERROR - FET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:45:34,207 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('ZEC/USDT', ' at line 1
+2025-04-20 19:45:34,500 - trading_bot - WARNING - Yetersiz bakiye: 0.0
+2025-04-20 19:46:35,301 - trading_bot - ERROR - BTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:46:36,076 - trading_bot - ERROR - ETH/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:46:36,861 - trading_bot - ERROR - BNB/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:46:37,641 - trading_bot - ERROR - NEO/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:46:38,419 - trading_bot - ERROR - LTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:46:39,200 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('QTUM/USDT',' at line 1
+2025-04-20 19:46:39,491 - trading_bot - WARNING - Yetersiz bakiye: 0.0
+2025-04-20 19:46:40,277 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('ADA/USDT', ' at line 1
+2025-04-20 19:46:40,572 - trading_bot - WARNING - Yetersiz bakiye: 0.0
+2025-04-20 19:46:41,347 - trading_bot - ERROR - XRP/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:46:42,120 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('EOS/USDT', ' at line 1
+2025-04-20 19:46:42,415 - trading_bot - WARNING - Satılacak EOS yok
+2025-04-20 19:46:43,194 - trading_bot - ERROR - IOTA/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:46:43,973 - trading_bot - ERROR - XLM/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:46:44,759 - trading_bot - ERROR - TRX/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:46:45,537 - trading_bot - ERROR - ETC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:46:46,312 - trading_bot - ERROR - VET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:46:47,089 - trading_bot - ERROR - USDC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:46:47,870 - trading_bot - ERROR - LINK/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:46:48,647 - trading_bot - ERROR - ZIL/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:46:49,425 - trading_bot - ERROR - ZRX/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:46:50,204 - trading_bot - ERROR - FET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:46:50,989 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('ZEC/USDT', ' at line 1
+2025-04-20 19:46:51,268 - trading_bot - WARNING - Yetersiz bakiye: 0.0
+2025-04-20 19:47:52,086 - trading_bot - ERROR - BTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:47:52,868 - trading_bot - ERROR - ETH/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:47:53,652 - trading_bot - ERROR - BNB/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:47:54,431 - trading_bot - ERROR - NEO/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:47:55,214 - trading_bot - ERROR - LTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:47:55,997 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('QTUM/USDT',' at line 1
+2025-04-20 19:47:56,276 - trading_bot - WARNING - Yetersiz bakiye: 0.0
+2025-04-20 19:47:57,053 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('ADA/USDT', ' at line 1
+2025-04-20 19:47:57,331 - trading_bot - WARNING - Yetersiz bakiye: 0.0
+2025-04-20 19:47:58,108 - trading_bot - ERROR - XRP/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:47:58,888 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('EOS/USDT', ' at line 1
+2025-04-20 19:47:59,166 - trading_bot - WARNING - Satılacak EOS yok
+2025-04-20 19:47:59,944 - trading_bot - ERROR - IOTA/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:48:00,726 - trading_bot - ERROR - XLM/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:48:01,511 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('TRX/USDT', ' at line 1
+2025-04-20 19:48:01,794 - trading_bot - WARNING - Satılacak TRX yok
+2025-04-20 19:48:02,570 - trading_bot - ERROR - ETC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:48:03,351 - trading_bot - ERROR - VET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:48:04,133 - trading_bot - ERROR - USDC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:48:05,389 - trading_bot - ERROR - LINK/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:48:06,163 - trading_bot - ERROR - ZIL/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:48:06,941 - trading_bot - ERROR - ZRX/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:48:07,726 - trading_bot - ERROR - FET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:48:08,510 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('ZEC/USDT', ' at line 1
+2025-04-20 19:48:08,795 - trading_bot - WARNING - Yetersiz bakiye: 0.0
+2025-04-20 19:48:30,033 - trading_bot - INFO - Konfigürasyon başarıyla yüklendi
+2025-04-20 19:48:30,080 - trading_bot - INFO - binance borsasına bağlantı kuruldu
+2025-04-20 19:48:30,089 - trading_bot - INFO - Veritabanı bağlantısı kuruldu
+2025-04-20 19:48:30,269 - trading_bot - INFO - Telegram bot bağlantısı kuruldu
+2025-04-20 19:48:30,270 - trading_bot - INFO - Bot başlatılıyor...
+2025-04-20 19:48:54,455 - trading_bot - INFO - 20 aktif coin bulundu
+2025-04-20 19:48:54,876 - trading_bot - ERROR - BTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:48:55,665 - trading_bot - ERROR - ETH/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:48:56,439 - trading_bot - ERROR - BNB/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:48:57,216 - trading_bot - ERROR - NEO/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:48:57,997 - trading_bot - ERROR - LTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:48:58,777 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('QTUM/USDT',' at line 1
+2025-04-20 19:48:59,053 - trading_bot - WARNING - Yetersiz bakiye: 0.0
+2025-04-20 19:48:59,831 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('ADA/USDT', ' at line 1
+2025-04-20 19:49:00,125 - trading_bot - WARNING - Yetersiz bakiye: 0.0
+2025-04-20 19:49:00,909 - trading_bot - ERROR - XRP/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:49:01,942 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('EOS/USDT', ' at line 1
+2025-04-20 19:49:02,231 - trading_bot - WARNING - Satılacak EOS yok
+2025-04-20 19:49:03,003 - trading_bot - ERROR - IOTA/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:49:03,780 - trading_bot - ERROR - XLM/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:49:04,634 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('TRX/USDT', ' at line 1
+2025-04-20 19:49:04,916 - trading_bot - WARNING - Satılacak TRX yok
+2025-04-20 19:49:05,692 - trading_bot - ERROR - ETC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:49:06,477 - trading_bot - ERROR - VET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:49:07,256 - trading_bot - ERROR - USDC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:49:08,039 - trading_bot - ERROR - LINK/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:49:08,820 - trading_bot - ERROR - ZIL/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:49:09,597 - trading_bot - ERROR - ZRX/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:49:09,616 - trading_bot - ERROR - BTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:49:10,374 - trading_bot - ERROR - FET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:49:10,395 - trading_bot - ERROR - ETH/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:49:11,155 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('ZEC/USDT', ' at line 1
+2025-04-20 19:49:11,181 - trading_bot - ERROR - BNB/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:49:11,439 - trading_bot - WARNING - Yetersiz bakiye: 0.0
+2025-04-20 19:49:11,962 - trading_bot - ERROR - NEO/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:49:12,740 - trading_bot - ERROR - LTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:49:13,522 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('QTUM/USDT',' at line 1
+2025-04-20 19:49:13,798 - trading_bot - WARNING - Yetersiz bakiye: 0.0
+2025-04-20 19:49:14,575 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('ADA/USDT', ' at line 1
+2025-04-20 19:49:14,857 - trading_bot - WARNING - Yetersiz bakiye: 0.0
+2025-04-20 19:49:15,639 - trading_bot - ERROR - XRP/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:49:16,420 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('EOS/USDT', ' at line 1
+2025-04-20 19:49:16,946 - trading_bot - WARNING - Satılacak EOS yok
+2025-04-20 19:49:17,725 - trading_bot - ERROR - IOTA/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:49:18,741 - trading_bot - ERROR - XLM/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:49:19,519 - trading_bot - ERROR - TRX/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:49:20,296 - trading_bot - ERROR - ETC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:49:21,073 - trading_bot - ERROR - VET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:49:21,849 - trading_bot - ERROR - USDC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:49:22,626 - trading_bot - ERROR - LINK/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:49:23,409 - trading_bot - ERROR - ZIL/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:49:24,189 - trading_bot - ERROR - ZRX/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:49:24,969 - trading_bot - ERROR - FET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:49:25,751 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('ZEC/USDT', ' at line 1
+2025-04-20 19:49:26,041 - trading_bot - WARNING - Yetersiz bakiye: 0.0
+2025-04-20 19:50:12,259 - trading_bot - ERROR - BTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:50:13,038 - trading_bot - ERROR - ETH/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:50:13,816 - trading_bot - ERROR - BNB/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:50:14,599 - trading_bot - ERROR - NEO/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:50:15,375 - trading_bot - ERROR - LTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:50:16,166 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('QTUM/USDT',' at line 1
+2025-04-20 19:50:16,442 - trading_bot - WARNING - Yetersiz bakiye: 0.0
+2025-04-20 19:50:17,224 - trading_bot - ERROR - ADA/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:50:17,997 - trading_bot - ERROR - XRP/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:50:18,781 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('EOS/USDT', ' at line 1
+2025-04-20 19:50:19,072 - trading_bot - WARNING - Satılacak EOS yok
+2025-04-20 19:50:19,851 - trading_bot - ERROR - IOTA/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:50:20,632 - trading_bot - ERROR - XLM/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:50:21,415 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('TRX/USDT', ' at line 1
+2025-04-20 19:50:21,702 - trading_bot - WARNING - Satılacak TRX yok
+2025-04-20 19:50:22,478 - trading_bot - ERROR - ETC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:50:23,265 - trading_bot - ERROR - VET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:50:24,044 - trading_bot - ERROR - USDC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:50:24,825 - trading_bot - ERROR - LINK/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:50:25,601 - trading_bot - ERROR - ZIL/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:50:26,377 - trading_bot - ERROR - ZRX/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:50:26,877 - trading_bot - ERROR - BTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:50:27,153 - trading_bot - ERROR - FET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:50:27,652 - trading_bot - ERROR - ETH/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:50:27,928 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('ZEC/USDT', ' at line 1
+2025-04-20 19:50:28,223 - trading_bot - WARNING - Yetersiz bakiye: 0.0
+2025-04-20 19:50:28,451 - trading_bot - ERROR - BNB/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:50:29,232 - trading_bot - ERROR - NEO/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:50:30,010 - trading_bot - ERROR - LTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:50:30,790 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('QTUM/USDT',' at line 1
+2025-04-20 19:50:31,078 - trading_bot - WARNING - Yetersiz bakiye: 0.0
+2025-04-20 19:50:31,862 - trading_bot - ERROR - ADA/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:50:32,648 - trading_bot - ERROR - XRP/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:50:33,421 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('EOS/USDT', ' at line 1
+2025-04-20 19:50:33,702 - trading_bot - WARNING - Satılacak EOS yok
+2025-04-20 19:50:34,485 - trading_bot - ERROR - IOTA/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:50:35,269 - trading_bot - ERROR - XLM/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:50:36,054 - trading_bot - ERROR - TRX/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:50:36,833 - trading_bot - ERROR - ETC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:50:37,613 - trading_bot - ERROR - VET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:50:38,393 - trading_bot - ERROR - USDC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:50:39,163 - trading_bot - ERROR - LINK/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:50:39,942 - trading_bot - ERROR - ZIL/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:50:40,723 - trading_bot - ERROR - ZRX/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:50:41,507 - trading_bot - ERROR - FET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:50:42,291 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('ZEC/USDT', ' at line 1
+2025-04-20 19:50:42,579 - trading_bot - WARNING - Yetersiz bakiye: 0.0
+2025-04-20 19:51:29,044 - trading_bot - ERROR - BTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:51:29,821 - trading_bot - ERROR - ETH/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:51:30,603 - trading_bot - ERROR - BNB/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:51:31,383 - trading_bot - ERROR - NEO/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:51:32,164 - trading_bot - ERROR - LTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:51:32,948 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('QTUM/USDT',' at line 1
+2025-04-20 19:51:33,229 - trading_bot - WARNING - Yetersiz bakiye: 0.0
+2025-04-20 19:51:34,009 - trading_bot - ERROR - ADA/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:51:34,791 - trading_bot - ERROR - XRP/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:51:35,568 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('EOS/USDT', ' at line 1
+2025-04-20 19:51:35,854 - trading_bot - WARNING - Satılacak EOS yok
+2025-04-20 19:51:36,642 - trading_bot - ERROR - IOTA/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:51:37,417 - trading_bot - ERROR - XLM/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:51:38,204 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('TRX/USDT', ' at line 1
+2025-04-20 19:51:38,496 - trading_bot - WARNING - Satılacak TRX yok
+2025-04-20 19:51:39,278 - trading_bot - ERROR - ETC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:51:40,048 - trading_bot - ERROR - VET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:51:40,829 - trading_bot - ERROR - USDC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:51:41,617 - trading_bot - ERROR - LINK/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:51:42,396 - trading_bot - ERROR - ZIL/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:51:43,170 - trading_bot - ERROR - ZRX/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:51:43,364 - trading_bot - ERROR - BTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:51:43,947 - trading_bot - ERROR - FET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:51:44,143 - trading_bot - ERROR - ETH/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:51:44,729 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('ZEC/USDT', ' at line 1
+2025-04-20 19:51:44,919 - trading_bot - ERROR - BNB/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:51:45,012 - trading_bot - WARNING - Yetersiz bakiye: 0.0
+2025-04-20 19:51:45,697 - trading_bot - ERROR - NEO/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:51:46,473 - trading_bot - ERROR - LTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:51:47,246 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('QTUM/USDT',' at line 1
+2025-04-20 19:51:47,534 - trading_bot - WARNING - Yetersiz bakiye: 0.0
+2025-04-20 19:51:48,313 - trading_bot - ERROR - ADA/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:51:49,104 - trading_bot - ERROR - XRP/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:51:49,883 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('EOS/USDT', ' at line 1
+2025-04-20 19:51:50,159 - trading_bot - WARNING - Satılacak EOS yok
+2025-04-20 19:51:50,935 - trading_bot - ERROR - IOTA/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:51:51,715 - trading_bot - ERROR - XLM/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:51:52,492 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('TRX/USDT', ' at line 1
+2025-04-20 19:51:52,775 - trading_bot - WARNING - Satılacak TRX yok
+2025-04-20 19:51:53,554 - trading_bot - ERROR - ETC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:51:54,330 - trading_bot - ERROR - VET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:51:55,102 - trading_bot - ERROR - USDC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:51:55,880 - trading_bot - ERROR - LINK/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:51:56,663 - trading_bot - ERROR - ZIL/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:51:57,441 - trading_bot - ERROR - ZRX/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:51:58,220 - trading_bot - ERROR - FET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:51:59,003 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('ZEC/USDT', ' at line 1
+2025-04-20 19:51:59,293 - trading_bot - WARNING - Yetersiz bakiye: 0.0
+2025-04-20 19:52:45,850 - trading_bot - ERROR - BTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:52:46,631 - trading_bot - ERROR - ETH/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:52:47,417 - trading_bot - ERROR - BNB/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:52:48,193 - trading_bot - ERROR - NEO/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:52:48,971 - trading_bot - ERROR - LTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:52:49,750 - trading_bot - ERROR - QTUM/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:52:50,525 - trading_bot - ERROR - ADA/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:52:51,306 - trading_bot - ERROR - XRP/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:52:52,080 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('EOS/USDT', ' at line 1
+2025-04-20 19:52:52,357 - trading_bot - WARNING - Satılacak EOS yok
+2025-04-20 19:52:53,133 - trading_bot - ERROR - IOTA/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:52:53,921 - trading_bot - ERROR - XLM/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:52:54,706 - trading_bot - ERROR - TRX/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:52:55,480 - trading_bot - ERROR - ETC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:52:56,260 - trading_bot - ERROR - VET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:52:57,035 - trading_bot - ERROR - USDC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:52:57,816 - trading_bot - ERROR - LINK/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:52:58,597 - trading_bot - ERROR - ZIL/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:52:59,372 - trading_bot - ERROR - ZRX/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:53:00,082 - trading_bot - ERROR - BTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:53:00,157 - trading_bot - ERROR - FET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:53:00,863 - trading_bot - ERROR - ETH/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:53:00,933 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('ZEC/USDT', ' at line 1
+2025-04-20 19:53:01,225 - trading_bot - WARNING - Yetersiz bakiye: 0.0
+2025-04-20 19:53:01,645 - trading_bot - ERROR - BNB/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:53:02,424 - trading_bot - ERROR - NEO/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:53:03,207 - trading_bot - ERROR - LTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:53:03,987 - trading_bot - ERROR - QTUM/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:53:04,766 - trading_bot - ERROR - ADA/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:53:05,548 - trading_bot - ERROR - XRP/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:53:06,329 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('EOS/USDT', ' at line 1
+2025-04-20 19:53:06,614 - trading_bot - WARNING - Satılacak EOS yok
+2025-04-20 19:53:07,395 - trading_bot - ERROR - IOTA/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:53:08,176 - trading_bot - ERROR - XLM/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:53:08,957 - trading_bot - ERROR - TRX/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:53:09,735 - trading_bot - ERROR - ETC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:53:10,515 - trading_bot - ERROR - VET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:53:11,293 - trading_bot - ERROR - USDC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:53:12,074 - trading_bot - ERROR - LINK/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:53:12,850 - trading_bot - ERROR - ZIL/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:53:13,629 - trading_bot - ERROR - ZRX/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:53:14,405 - trading_bot - ERROR - FET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:53:15,189 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('ZEC/USDT', ' at line 1
+2025-04-20 19:53:15,470 - trading_bot - WARNING - Yetersiz bakiye: 0.0
+2025-04-20 19:54:02,073 - trading_bot - ERROR - BTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:54:02,855 - trading_bot - ERROR - ETH/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:54:03,638 - trading_bot - ERROR - BNB/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:54:04,425 - trading_bot - ERROR - NEO/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:54:05,212 - trading_bot - ERROR - LTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:54:05,996 - trading_bot - ERROR - QTUM/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:54:06,775 - trading_bot - ERROR - ADA/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:54:07,628 - trading_bot - ERROR - XRP/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:54:08,413 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('EOS/USDT', ' at line 1
+2025-04-20 19:54:08,780 - trading_bot - WARNING - Satılacak EOS yok
+2025-04-20 19:54:09,563 - trading_bot - ERROR - IOTA/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:54:10,349 - trading_bot - ERROR - XLM/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:54:11,132 - trading_bot - ERROR - TRX/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:54:11,918 - trading_bot - ERROR - ETC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:54:12,700 - trading_bot - ERROR - VET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:54:13,482 - trading_bot - ERROR - USDC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:54:14,327 - trading_bot - ERROR - LINK/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:54:15,110 - trading_bot - ERROR - ZIL/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:54:15,895 - trading_bot - ERROR - ZRX/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:54:16,270 - trading_bot - ERROR - BTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:54:16,677 - trading_bot - ERROR - FET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:54:17,054 - trading_bot - ERROR - ETH/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:54:17,463 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('ZEC/USDT', ' at line 1
+2025-04-20 19:54:17,753 - trading_bot - WARNING - Yetersiz bakiye: 0.0
+2025-04-20 19:54:17,845 - trading_bot - ERROR - BNB/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:54:18,621 - trading_bot - ERROR - NEO/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:54:19,400 - trading_bot - ERROR - LTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:54:20,181 - trading_bot - ERROR - QTUM/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:54:20,969 - trading_bot - ERROR - ADA/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:54:21,759 - trading_bot - ERROR - XRP/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:54:22,538 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('EOS/USDT', ' at line 1
+2025-04-20 19:54:22,816 - trading_bot - WARNING - Satılacak EOS yok
+2025-04-20 19:54:23,611 - trading_bot - ERROR - IOTA/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:54:24,392 - trading_bot - ERROR - XLM/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:54:25,179 - trading_bot - ERROR - TRX/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:54:25,963 - trading_bot - ERROR - ETC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:54:26,749 - trading_bot - ERROR - VET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:54:27,538 - trading_bot - ERROR - USDC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:54:28,313 - trading_bot - ERROR - LINK/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:54:29,092 - trading_bot - ERROR - ZIL/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:54:29,874 - trading_bot - ERROR - ZRX/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:54:30,657 - trading_bot - ERROR - FET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:54:31,439 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('ZEC/USDT', ' at line 1
+2025-04-20 19:54:31,727 - trading_bot - WARNING - Yetersiz bakiye: 0.0
+2025-04-20 19:55:18,539 - trading_bot - ERROR - BTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:55:19,320 - trading_bot - ERROR - ETH/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:55:20,105 - trading_bot - ERROR - BNB/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:55:20,894 - trading_bot - ERROR - NEO/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:55:21,675 - trading_bot - ERROR - LTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:55:22,459 - trading_bot - ERROR - QTUM/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:55:23,237 - trading_bot - ERROR - ADA/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:55:24,024 - trading_bot - ERROR - XRP/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:55:24,800 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('EOS/USDT', ' at line 1
+2025-04-20 19:55:25,081 - trading_bot - WARNING - Satılacak EOS yok
+2025-04-20 19:55:25,865 - trading_bot - ERROR - IOTA/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:55:26,649 - trading_bot - ERROR - XLM/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:55:27,430 - trading_bot - ERROR - TRX/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:55:28,220 - trading_bot - ERROR - ETC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:55:29,000 - trading_bot - ERROR - VET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:55:29,780 - trading_bot - ERROR - USDC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:55:30,560 - trading_bot - ERROR - LINK/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:55:31,344 - trading_bot - ERROR - ZIL/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:55:32,121 - trading_bot - ERROR - ZRX/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:55:32,572 - trading_bot - ERROR - BTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:55:32,902 - trading_bot - ERROR - FET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:55:33,357 - trading_bot - ERROR - ETH/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:55:33,681 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('ZEC/USDT', ' at line 1
+2025-04-20 19:55:34,023 - trading_bot - WARNING - Yetersiz bakiye: 0.0
+2025-04-20 19:55:34,141 - trading_bot - ERROR - BNB/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:55:34,920 - trading_bot - ERROR - NEO/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:55:35,706 - trading_bot - ERROR - LTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:55:36,489 - trading_bot - ERROR - QTUM/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:55:37,272 - trading_bot - ERROR - ADA/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:55:38,055 - trading_bot - ERROR - XRP/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:55:38,833 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('EOS/USDT', ' at line 1
+2025-04-20 19:55:39,119 - trading_bot - WARNING - Satılacak EOS yok
+2025-04-20 19:55:39,901 - trading_bot - ERROR - IOTA/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:55:40,681 - trading_bot - ERROR - XLM/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:55:41,468 - trading_bot - ERROR - TRX/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:55:42,248 - trading_bot - ERROR - ETC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:55:43,029 - trading_bot - ERROR - VET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:55:43,809 - trading_bot - ERROR - USDC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:55:44,593 - trading_bot - ERROR - LINK/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:55:45,373 - trading_bot - ERROR - ZIL/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:55:46,149 - trading_bot - ERROR - ZRX/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:55:46,931 - trading_bot - ERROR - FET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:55:47,713 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('ZEC/USDT', ' at line 1
+2025-04-20 19:55:47,996 - trading_bot - WARNING - Yetersiz bakiye: 0.0
+2025-04-20 19:56:34,854 - trading_bot - ERROR - BTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:56:35,632 - trading_bot - ERROR - ETH/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:56:36,407 - trading_bot - ERROR - BNB/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:56:37,183 - trading_bot - ERROR - NEO/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:56:37,962 - trading_bot - ERROR - LTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:56:38,747 - trading_bot - ERROR - QTUM/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:56:39,527 - trading_bot - ERROR - ADA/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:56:40,310 - trading_bot - ERROR - XRP/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:56:41,095 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('EOS/USDT', ' at line 1
+2025-04-20 19:56:41,380 - trading_bot - WARNING - Satılacak EOS yok
+2025-04-20 19:56:42,162 - trading_bot - ERROR - IOTA/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:56:42,937 - trading_bot - ERROR - XLM/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:56:43,718 - trading_bot - ERROR - TRX/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:56:44,503 - trading_bot - ERROR - ETC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:56:45,280 - trading_bot - ERROR - VET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:56:46,051 - trading_bot - ERROR - USDC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:56:46,828 - trading_bot - ERROR - LINK/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:56:47,609 - trading_bot - ERROR - ZIL/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:56:48,387 - trading_bot - ERROR - ZRX/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:56:48,845 - trading_bot - ERROR - BTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:56:49,169 - trading_bot - ERROR - FET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:56:49,630 - trading_bot - ERROR - ETH/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:56:49,955 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('ZEC/USDT', ' at line 1
+2025-04-20 19:56:50,234 - trading_bot - WARNING - Yetersiz bakiye: 0.0
+2025-04-20 19:56:50,455 - trading_bot - ERROR - BNB/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:56:51,242 - trading_bot - ERROR - NEO/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:56:52,020 - trading_bot - ERROR - LTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:56:52,808 - trading_bot - ERROR - QTUM/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:56:53,587 - trading_bot - ERROR - ADA/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:56:54,368 - trading_bot - ERROR - XRP/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:56:55,152 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('EOS/USDT', ' at line 1
+2025-04-20 19:56:55,443 - trading_bot - WARNING - Satılacak EOS yok
+2025-04-20 19:56:56,223 - trading_bot - ERROR - IOTA/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:56:57,009 - trading_bot - ERROR - XLM/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:56:57,797 - trading_bot - ERROR - TRX/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:56:58,572 - trading_bot - ERROR - ETC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:56:59,384 - trading_bot - ERROR - VET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:57:00,170 - trading_bot - ERROR - USDC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:57:00,953 - trading_bot - ERROR - LINK/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:57:01,811 - trading_bot - ERROR - ZIL/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:57:02,590 - trading_bot - ERROR - ZRX/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:57:03,370 - trading_bot - ERROR - FET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:57:04,152 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('ZEC/USDT', ' at line 1
+2025-04-20 19:57:04,435 - trading_bot - WARNING - Yetersiz bakiye: 0.0
+2025-04-20 19:57:51,029 - trading_bot - ERROR - BTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:57:51,810 - trading_bot - ERROR - ETH/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:57:52,613 - trading_bot - ERROR - BNB/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:57:53,394 - trading_bot - ERROR - NEO/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:57:54,181 - trading_bot - ERROR - LTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:57:54,970 - trading_bot - ERROR - QTUM/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:57:55,753 - trading_bot - ERROR - ADA/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:57:56,534 - trading_bot - ERROR - XRP/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:57:57,314 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('EOS/USDT', ' at line 1
+2025-04-20 19:57:57,599 - trading_bot - WARNING - Satılacak EOS yok
+2025-04-20 19:57:58,382 - trading_bot - ERROR - IOTA/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:57:59,161 - trading_bot - ERROR - XLM/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:57:59,940 - trading_bot - ERROR - TRX/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:58:00,721 - trading_bot - ERROR - ETC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:58:01,499 - trading_bot - ERROR - VET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:58:02,283 - trading_bot - ERROR - USDC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:58:03,069 - trading_bot - ERROR - LINK/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:58:03,927 - trading_bot - ERROR - ZIL/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:58:04,715 - trading_bot - ERROR - ZRX/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:58:05,228 - trading_bot - ERROR - BTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:58:05,499 - trading_bot - ERROR - FET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:58:06,004 - trading_bot - ERROR - ETH/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:58:06,282 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('ZEC/USDT', ' at line 1
+2025-04-20 19:58:06,570 - trading_bot - WARNING - Yetersiz bakiye: 0.0
+2025-04-20 19:58:06,786 - trading_bot - ERROR - BNB/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:58:07,563 - trading_bot - ERROR - NEO/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:58:08,345 - trading_bot - ERROR - LTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:58:09,125 - trading_bot - ERROR - QTUM/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:58:09,907 - trading_bot - ERROR - ADA/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:58:10,687 - trading_bot - ERROR - XRP/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:58:11,471 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('EOS/USDT', ' at line 1
+2025-04-20 19:58:11,760 - trading_bot - WARNING - Satılacak EOS yok
+2025-04-20 19:58:12,541 - trading_bot - ERROR - IOTA/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:58:13,321 - trading_bot - ERROR - XLM/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:58:14,104 - trading_bot - ERROR - TRX/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:58:14,883 - trading_bot - ERROR - ETC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:58:15,667 - trading_bot - ERROR - VET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:58:16,451 - trading_bot - ERROR - USDC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:58:17,233 - trading_bot - ERROR - LINK/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:58:18,019 - trading_bot - ERROR - ZIL/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:58:18,805 - trading_bot - ERROR - ZRX/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:58:19,588 - trading_bot - ERROR - FET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:58:20,367 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('ZEC/USDT', ' at line 1
+2025-04-20 19:58:20,653 - trading_bot - WARNING - Yetersiz bakiye: 0.0
+2025-04-20 19:59:07,408 - trading_bot - ERROR - BTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:59:08,185 - trading_bot - ERROR - ETH/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:59:08,964 - trading_bot - ERROR - BNB/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:59:09,744 - trading_bot - ERROR - NEO/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:59:10,527 - trading_bot - ERROR - LTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:59:11,309 - trading_bot - ERROR - QTUM/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:59:12,092 - trading_bot - ERROR - ADA/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:59:12,873 - trading_bot - ERROR - XRP/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:59:13,666 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('EOS/USDT', ' at line 1
+2025-04-20 19:59:13,976 - trading_bot - WARNING - Satılacak EOS yok
+2025-04-20 19:59:14,758 - trading_bot - ERROR - IOTA/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:59:15,561 - trading_bot - ERROR - XLM/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:59:16,351 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('TRX/USDT', ' at line 1
+2025-04-20 19:59:16,651 - trading_bot - WARNING - Satılacak TRX yok
+2025-04-20 19:59:17,432 - trading_bot - ERROR - ETC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:59:18,214 - trading_bot - ERROR - VET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:59:18,996 - trading_bot - ERROR - USDC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:59:19,780 - trading_bot - ERROR - LINK/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:59:20,557 - trading_bot - ERROR - ZIL/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:59:21,339 - trading_bot - ERROR - ZRX/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:59:21,487 - trading_bot - ERROR - BTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:59:22,114 - trading_bot - ERROR - FET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:59:22,265 - trading_bot - ERROR - ETH/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:59:22,895 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('ZEC/USDT', ' at line 1
+2025-04-20 19:59:23,039 - trading_bot - ERROR - BNB/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:59:23,179 - trading_bot - WARNING - Yetersiz bakiye: 0.0
+2025-04-20 19:59:23,814 - trading_bot - ERROR - NEO/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:59:24,590 - trading_bot - ERROR - LTC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:59:25,376 - trading_bot - ERROR - QTUM/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:59:26,167 - trading_bot - ERROR - ADA/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:59:26,951 - trading_bot - ERROR - XRP/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:59:27,733 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('EOS/USDT', ' at line 1
+2025-04-20 19:59:28,021 - trading_bot - WARNING - Satılacak EOS yok
+2025-04-20 19:59:28,808 - trading_bot - ERROR - IOTA/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:59:29,590 - trading_bot - ERROR - XLM/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:59:30,373 - trading_bot - ERROR - TRX/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:59:31,157 - trading_bot - ERROR - ETC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:59:31,938 - trading_bot - ERROR - VET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:59:32,728 - trading_bot - ERROR - USDC/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:59:33,507 - trading_bot - ERROR - LINK/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:59:34,284 - trading_bot - ERROR - ZIL/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:59:35,066 - trading_bot - ERROR - ZRX/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:59:35,862 - trading_bot - ERROR - FET/USDT analiz edilirken hata: 'short_ma'
+2025-04-20 19:59:36,652 - trading_bot - ERROR - Analiz veritabanı kaydı hatası: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'signal, reason, timestamp, indicators_json)
+                VALUES ('ZEC/USDT', ' at line 1
+2025-04-20 19:59:36,966 - trading_bot - WARNING - Yetersiz bakiye: 0.0

@@ -1,0 +1,14 @@
+{
+    "binance": {
+        "api_key": "yiOmIJlEMBv1ZFrgFZ0Ajy5kFIfgwrrK3MWitdaOkvocb19u71Z7yrndZTH1Lptg",
+        "secret": "Ff0kllaw98JUGJRKxgGFOWtN2QZuZenTJSEcpoPePSdUF1AJpjKPTvTnaGifpBYc"
+    },
+    "ftx": {
+        "api_key": "",
+        "secret": ""
+    },
+    "kucoin": {
+        "api_key": "",
+        "secret": ""
+    }
+}
